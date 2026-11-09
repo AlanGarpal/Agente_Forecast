@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-openai
+pandas
+polars
+xgboost
+numpy
+seaborn 
+matplotlib
