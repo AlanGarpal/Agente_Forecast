@@ -8,3 +8,4 @@ numpy
 seaborn 
 matplotlib
 streamlit_echarts
+scikit-learn
